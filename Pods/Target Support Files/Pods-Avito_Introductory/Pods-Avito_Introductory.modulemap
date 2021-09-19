@@ -1,0 +1,6 @@
+module Pods_Avito_Introductory {
+  umbrella header "Pods-Avito_Introductory-umbrella.h"
+
+  export *
+  module * { export * }
+}
